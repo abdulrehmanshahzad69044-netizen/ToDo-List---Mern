@@ -1,0 +1,4 @@
+mongodb+srv://abdulrehman:arehman@clustertodo.ujbsvf7.mongodb.net/?retryWrites=true&w=majority&appName=ClusterTodo
+
+
+mongodb+srv://<username>:<password>@cluster0.abcd.mongodb.net/mern-todo?retryWrites=true&w=majority
